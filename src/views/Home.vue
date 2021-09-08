@@ -134,7 +134,7 @@ export default {
             }
           ],
           description:
-            "your chats can now be private.",
+            "Your chats can now be private.",
           technologies: [
             {
               name: "VueJS",
@@ -150,6 +150,42 @@ export default {
               name: "Firebase",
               icon: "mdi-firebase",
               link: "https://firebase.google.com/"
+            }
+          ],
+          code: {
+            name: "github",
+            icon: "mdi-github",
+            link: ""
+          }
+        },
+        {
+          name: "Foodify",
+          price: "COMING SOON",
+          logo: "foodify.jpg",
+          platforms: [
+            {
+              name: "web",
+              icon: "mdi-web",
+              link: ""
+            }
+          ],
+          description:
+            "Foodify is an application for publishing content related to gastronomy, interact and even join chat rooms.",
+          technologies: [
+            {
+              name: "VueJS",
+              icon: "mdi-vuejs",
+              link: "https://vuejs.org/"
+            },
+            {
+              name: "Vuetify",
+              icon: "mdi-vuetify",
+              link: "https://vuetifyjs.com/"
+            },
+            {
+              name: "MongoDB",
+              icon: "mdi-database",
+              link: "https://mongodb.com/"
             }
           ],
           code: {
@@ -190,6 +226,12 @@ export default {
           link: "https://www.instagram.com/khalilshff/",
           icon: "mdi-instagram"
         },
+        {
+          name: "Phone",
+          value: "(+216) 29 67 99 67",
+          link: "",
+          icon: "mdi-phone"
+        }
       ]
     };
   }
