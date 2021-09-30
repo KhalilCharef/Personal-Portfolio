@@ -164,7 +164,9 @@ export default {
           logo: "foodify.jpg",
           platforms: [
             {
-              name: "web",
+              name: "web", 
+
+              
               icon: "mdi-web",
               link: ""
             }
